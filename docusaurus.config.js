@@ -13,8 +13,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mitsukaki.github.io/pe-docs', // Your website URL
-  baseUrl: '/',
+  url: 'https://mitsukaki.github.io', // Your website URL
+  baseUrl: '/pe-docs',
   projectName: 'pe-docs',
   organizationName: 'mitsukaki',
   trailingSlash: false,
