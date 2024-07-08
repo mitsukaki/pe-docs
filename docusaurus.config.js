@@ -68,6 +68,10 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          // {
+          //   type: 'docsVersionDropdown',
+          //   position: 'right',
+          // },
           {
             href: 'https://vpm.mitsukaki.com',
             label: 'VPM (Creator Companion)',
@@ -88,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/',
+                to: '/docs/intro',
               },
               {
                 label: 'GitHub',
